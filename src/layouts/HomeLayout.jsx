@@ -3,7 +3,7 @@ import LatestNews from "../components/LatestNews";
 
 const HomeLayout = () => {
     return (
-      <div>
+      <div className="font-Poppins">
         <header>
                 <Header></Header>
                 <section className="w-11/12 mx-auto">
